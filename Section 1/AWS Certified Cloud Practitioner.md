@@ -73,3 +73,6 @@ AWS owns and maintains the network-connected hardware required for these applica
 
 # Six Advantages of Cloud Computing
 
+1. Trade capital expense(Capex) for operational expense(Opex)
+	- Pay on demand, don't own any hardware.
+	- Reduce TCO and Opex: TCO: Total Cost Ownership
