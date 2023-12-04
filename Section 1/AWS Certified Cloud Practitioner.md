@@ -76,3 +76,5 @@ AWS owns and maintains the network-connected hardware required for these applica
 1. Trade capital expense(Capex) for operational expense(Opex)
 	- Pay on demand, don't own any hardware.
 	- Reduce TCO and Opex: TCO: Total Cost Ownership
+2. Benefits from massive economies of scale.
+	- Prices are reduced as AWS is more efficient due to large scale.
