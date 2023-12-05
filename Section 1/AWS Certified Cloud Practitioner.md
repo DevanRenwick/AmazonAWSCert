@@ -78,3 +78,4 @@ AWS owns and maintains the network-connected hardware required for these applica
 	- Reduce TCO and Opex: TCO: Total Cost Ownership
 2. Benefits from massive economies of scale.
 	- Prices are reduced as AWS is more efficient due to large scale.
+3. 
